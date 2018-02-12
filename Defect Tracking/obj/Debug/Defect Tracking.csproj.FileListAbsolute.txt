@@ -1,0 +1,12 @@
+S:\User\robbi_000\Documents\NEIT\Software Testing and QA\rbowden_dts\Defect Tracking\Defect Tracking\bin\Debug\Defect Tracking.exe.config
+S:\User\robbi_000\Documents\NEIT\Software Testing and QA\rbowden_dts\Defect Tracking\Defect Tracking\bin\Debug\Defect Tracking.exe
+S:\User\robbi_000\Documents\NEIT\Software Testing and QA\rbowden_dts\Defect Tracking\Defect Tracking\bin\Debug\Defect Tracking.pdb
+S:\User\robbi_000\Documents\NEIT\Software Testing and QA\rbowden_dts\Defect Tracking\Defect Tracking\obj\Debug\Defect Tracking.csprojResolveAssemblyReference.cache
+S:\User\robbi_000\Documents\NEIT\Software Testing and QA\rbowden_dts\Defect Tracking\Defect Tracking\obj\Debug\Defect_Tracking.Properties.Resources.resources
+S:\User\robbi_000\Documents\NEIT\Software Testing and QA\rbowden_dts\Defect Tracking\Defect Tracking\obj\Debug\Defect Tracking.csproj.GenerateResource.Cache
+S:\User\robbi_000\Documents\NEIT\Software Testing and QA\rbowden_dts\Defect Tracking\Defect Tracking\obj\Debug\Defect Tracking.exe
+S:\User\robbi_000\Documents\NEIT\Software Testing and QA\rbowden_dts\Defect Tracking\Defect Tracking\obj\Debug\Defect Tracking.pdb
+S:\User\robbi_000\Documents\NEIT\Software Testing and QA\rbowden_dts\Defect Tracking\Defect Tracking\obj\Debug\Defect_Tracking.AddForm.resources
+S:\User\robbi_000\Documents\NEIT\Software Testing and QA\rbowden_dts\Defect Tracking\Defect Tracking\obj\Debug\Defect_Tracking.OpenForm.resources
+S:\User\robbi_000\Documents\NEIT\Software Testing and QA\rbowden_dts\Defect Tracking\Defect Tracking\bin\Debug\Bug_Database.accdb
+S:\User\robbi_000\Documents\NEIT\Software Testing and QA\rbowden_dts\Defect Tracking\Defect Tracking\obj\Debug\Defect_Tracking.ViewBugsForm.resources
